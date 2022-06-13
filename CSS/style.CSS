@@ -1,0 +1,14 @@
+#submitbtn{
+    background-color:aqua;
+}
+
+#submitbtn:hover{
+    background-color: blue;
+}
+input:focus{
+    background-color: orange;
+}
+
+input::placeholder{
+    color: red;
+}

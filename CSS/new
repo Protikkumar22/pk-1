@@ -1,0 +1,32 @@
+h1{
+    color: blue;
+    text-align: center;
+}
+   #submitbtn{
+       background-color: aqua;
+ }
+    .mainform {
+    text-align: center;
+    color: tomato;
+    background-color: blanchedalmond;
+}
+
+#reg_bg{
+    background-color: tan;
+}
+
+#reg_frm{
+    color: blue;
+}
+
+#forget_cl{
+    color: red;
+}
+
+#fg_bg{
+    background-color: bisque;
+}
+#mail_bg{
+    color: crimson;
+    background-color:tomato;
+}
